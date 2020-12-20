@@ -6,6 +6,7 @@ using namespace std;
 //I PUTU GEDE BAYU RADITYA PRATAMA
 //BD203
 //200030409
+//mengurutkan array dengan metode selection sort
 
 void Selection_sort(int DataArray[], int  jmlData) {
 	int min = 0;
